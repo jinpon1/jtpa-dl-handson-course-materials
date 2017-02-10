@@ -102,6 +102,6 @@ AND、OR、XORのロジックを学習により得るモデルを作ってみて
 [CLOUD MACHINE LEARNING PLATFORM](https://cloud.google.com/products/machine-learning/)
 
 
-# じっくりとtensorflow/Deep learningをコード付きで学習する
+## じっくりとtensorflow/Deep learningをコード付きで学習する
 
 [codelab](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
