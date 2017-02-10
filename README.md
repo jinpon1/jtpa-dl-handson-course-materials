@@ -1,5 +1,5 @@
 
-# ＪTPA DL handson course materials
+# JTPA DL hands-on course materials
 for Feb/2017 JTPA Deep Learning meetup
 
 ## overview 
@@ -10,10 +10,9 @@ We will try **"Learn TensorFlow and deep learning, without a Ph.D"**
 
 + Chapter 1: 手書き文字認識のtensorflowチュートリアル
 
-```
 mnistと呼ばれる 28x28サイズの手書きの数字データセットに対して、0から9までの数字に分類するタスクです。
 tensorflowの最初のチュートリアルとして有名。このチュートリアルを読みながら実際に手書き文字を認識するモデルを構築します。
-```
+
 
 + Chapter 2: tensorflowの基礎知識やDLの基本手法
 
