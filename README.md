@@ -10,35 +10,36 @@ We will try **"Learn TensorFlow and deep learning, without a Ph.D"**
 
 + Chapter 1: 手書き文字認識のtensorflowチュートリアル
 
+```
 mnistと呼ばれる 28x28サイズの手書きの数字データセットに対して、0から9までの数字に分類するタスクです。
 
 tensorflowの最初のチュートリアルとして有名。このチュートリアルを読みながら実際に手書き文字を認識するモデルを構築します。
-
+```
 
 + Chapter 2: tensorflowの基礎知識やDLの基本手法
 
-
+```
 tensorflowを使って簡単な二元一次方程式を解いたりANDやXORのロジックを学習させるのを試します。
 
 あるいはmnistの最初のチュートリアルを終えた方向けに、mnistのより複雑なモデルを実装しウェイトの初期化方法の違いやdrop outの実装を試します。
-
+```
 
 
 + Chapter 7: RNNによるテキスト処理のtensorflowチュートリアル
 
-
+```
 RNN(LSTM)を使った文章内の次の単語を予測するチュートリアルを実装します。
 
 画像よりもテキストやRNNに興味がある方向けです。
-
+```
 
 + Chapter 8: Google Cloud Machine Learning Platformの試用
 
-
+```
 GoogleのCloud Machine Learning Platform を試用し、手持ちの画像の認識やテキストの解析を試します。
 
 tensorflowやディープラーニングの技術そのものよりも最新の機械学習モデルの性能に興味がある方向けです。
-
+```
 
 
 # environment
