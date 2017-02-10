@@ -1,5 +1,5 @@
 
-# jtpa-dl-handson-course-materials
+# ＪTPA DL handson course materials
 for Feb/2017 JTPA Deep Learning meetup
 
 ## overview 
@@ -10,28 +10,35 @@ We will try **"Learn TensorFlow and deep learning, without a Ph.D"**
 
 + Chapter 1: 手書き文字認識のtensorflowチュートリアル
 
-> mnistと呼ばれる 28x28サイズの手書きの数字データセットに対して、0から9までの数字に分類するタスクです。tensorflowの最初のチュートリアルとして有名。このチュートリアルを読みながら実際に手書き文字を認識するモデルを構築します。
-
+```
+mnistと呼ばれる 28x28サイズの手書きの数字データセットに対して、0から9までの数字に分類するタスクです。
+tensorflowの最初のチュートリアルとして有名。このチュートリアルを読みながら実際に手書き文字を認識するモデルを構築します。
+```
 
 + Chapter 2: tensorflowの基礎知識やDLの基本手法
 
-> tensorflowを使って簡単な二元一次方程式を解いたりANDやXORのロジックを学習させるのを試します。
->
-> あるいはmnistの最初のチュートリアルを終えた方向けに、mnistのより複雑なモデルを実装しウェイトの初期化方法の違いやdrop outの実装を試します。
+```
+tensorflowを使って簡単な二元一次方程式を解いたりANDやXORのロジックを学習させるのを試します。
+
+あるいはmnistの最初のチュートリアルを終えた方向けに、mnistのより複雑なモデルを実装しウェイトの初期化方法の違いやdrop outの実装を試します。
+```
 
 
 + Chapter 7: RNNによるテキスト処理のtensorflowチュートリアル
 
-> RNN(LSTM)を使った文章内の次の単語を予測するチュートリアルを実装します。
->
-> 画像よりもテキストやRNNに興味がある方向けです。
+```
+RNN(LSTM)を使った文章内の次の単語を予測するチュートリアルを実装します。
 
+画像よりもテキストやRNNに興味がある方向けです。
+```
 
 + Chapter 8: Google Cloud Machine Learning Platformの試用
 
-> GoogleのCloud Machine Learning Platform を試用し、手持ちの画像の認識やテキストの解析を試します。
-> tensorflowやディープラーニングの技術そのものよりも最新の機械学習モデルの性能に興味がある方向けです。
- 
+```
+GoogleのCloud Machine Learning Platform を試用し、手持ちの画像の認識やテキストの解析を試します。
+
+tensorflowやディープラーニングの技術そのものよりも最新の機械学習モデルの性能に興味がある方向けです。
+``` 
 
 
 # environment
@@ -65,16 +72,17 @@ Recommended IDE is PyCharm.
 
 あるいはより基礎的なお題として下記の問題を解いてみて下さい。
 
+```
 [演習 1]
 
-> りんごを3個、バナナを1個買ったら560円、
->
-> りんごを2個、バナナを2個買ったら880円でした。それぞれ幾らでしょうか？
+りんごを3個、バナナを1個買ったら560円、
+
+りんごを2個、バナナを2個買ったら880円でした。それぞれ幾らでしょうか？
 
 [演習 2]
 
-> AND、OR、XORのロジックを学習により得るモデルを作ってみて下さい。
-
+AND、OR、XORのロジックを学習により得るモデルを作ってみて下さい。
+```
 
 # Chapter 7: RNNによるテキスト処理
 
